@@ -1,0 +1,32 @@
+body{
+	background-color: #000;
+}
+
+#container{
+	width: 800px;
+	height: 600px;
+	background-color: #CCC;
+	margin: 0 auto;
+}
+
+#player{
+	background-color: #5858FA;
+	width: 200px;
+	height: 300px;
+	float: left;
+}
+
+#rival{
+	background-color: #FE2E2E;
+	width: 200px;
+	height: 300px;
+	float: left;
+}
+
+#btnNextLevel{
+	display: none;
+}
+
+#btnRestartGame{
+	display: none;
+}
